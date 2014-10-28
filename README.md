@@ -2,6 +2,8 @@
 
 Compatible with Windows XP SP3 or newer. Tested with Windows XP SP3, Windows 7 SP1 x86, Windows 8.1/Server 2012 R2  x64
 
+Download it from [Releases](https://github.com/makerlabmx/aquila-tools-windows-installer/releases)
+
 ## What does it install
 
 - Aquila Server
