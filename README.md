@@ -1,4 +1,4 @@
-# Aquila Tools for Windows Installer.
+# Aquila Tools for Windows Installer
 
 Compatible with Windows XP SP3 or newer. Tested with Windows XP SP3, Windows 7 SP1 x86, Windows 8.1/Server 2012 R2  x64
 
